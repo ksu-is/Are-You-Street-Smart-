@@ -10,8 +10,8 @@
 - [x] Join class GitHub (ksu-is) <br>
 - [x] Edited and committed changes to readme.md <br>
 - [ ] Find related Python code <br>
-	- [ ] Read code <br>
-	- [ ] Attempt code <br>
+	**Note:** Was unable to run the code from the original repsoitory found (https://github.com/ir2010/Quiz-in-Python-with-GUI) because of a missing module, but should be beneficial to this repository as time progresses. However, I did find another code that ran well (https://github.com/ajcollier93/Quiz_Template); although it is a simple template, the code works and is similar to my idea.
+	
 
 ### Sprint 2: <br>
 - [ ] Making small updates <br>
