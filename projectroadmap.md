@@ -4,7 +4,7 @@
 - [x] Include at least one source
 
 ### Sprint 1: <br>
-- [ ] Approved project topic <br>
+- [x ] Approved project topic <br>
 - [x] Listed in Teams Project Spreadsheet <br>
 - [x] Establish GitHub Account <br>
 - [x] Join class GitHub (ksu-is) <br>
