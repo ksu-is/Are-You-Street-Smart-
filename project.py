@@ -78,10 +78,10 @@ if response9 == 'a' or response9 =='A':
 else:
     print("Next Question")
 
- response10= input(questions[9].lower()
- if response10 == 'a' or response10 =='A':
+response10= input(questions[9].lower()
+if response10 == 'a' or response10 =='A':
     print("Next Question")
- else:
+else:
     print("Next Question")
 
    
