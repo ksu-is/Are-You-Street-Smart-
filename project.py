@@ -11,7 +11,7 @@ questions = [
     "I am good at thinking on my feet.\n(a) yes\n(b) no",
     "It doesn't take me long to orient myself in a new city. \n(a) yes\n(b) no",
     "I trust my intuition?\n(a) yes\n(b) no",
-    "I always carry enought cash to get home if I desperatley need.\n(a) yes\n(b) no"
+    "I always carry enough cash to get home if I need.\n(a) yes\n(b) no"
 ]
 count = 0
 
