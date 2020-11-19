@@ -4,7 +4,7 @@
 - [x] Include at least one source
 
 ### Sprint 1: <br>
-- [x ] Approved project topic <br>
+- [x] Approved project topic <br>
 - [x] Listed in Teams Project Spreadsheet <br>
 - [x] Establish GitHub Account <br>
 - [x] Join class GitHub (ksu-is) <br>
@@ -14,9 +14,9 @@
 	
 
 ### Sprint 2: <br>
-- [ ] Making small updates <br>
-- [ ] Committed at least 6 code changes <br>
-- [ ] Include comment explaining change <br>
+- [x] Making small updates <br>
+- [x] Committed at least 6 code changes <br>
+- [x] Include comment explaining change <br>
 
 ### Sprint 3: <br>
 - [ ] Continue coding, refining, and testing code <br>
