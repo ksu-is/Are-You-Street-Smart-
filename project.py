@@ -85,7 +85,7 @@ else:
     print("Next Question")
 
    
-grade = count/10
+grade = count/9
 grade_percent = "{:.0%}".format(grade)
 
 print(f"You are {grade_percent} street smart")
