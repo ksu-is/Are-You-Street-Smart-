@@ -3,11 +3,11 @@ import random
 
 questions = [
     "I trust my intuition.\n(a) yes\n(b) no",
-    "Before taking any risk, I make sure to have a Plan B ready.\n(a) Yes \n(b) No\n",
+    "Before taking any risk, I make sure to have a plan B ready.\n(a) Yes \n(b) No\n",
     "I have always been able to anticipate when something bad was going to happen.\n(a) Yes\n(b) No\n",
     "I adapt quickly to new surroundings. \n(a) yes\n(b) no",
     "I assess pros and cons before acting. \n(a) yes\n(b) no",
-    "I would consider myself street smart. \n(a) yes\n(b) no",
+    "It is okay to get in a stranger's car if they know my name. \n(a) yes\n(b) no",
     "I am good at thinking on my feet.\n(a) yes\n(b) no",
     "It doesn't take me long to orient myself in a new city. \n(a) yes\n(b) no",
     "I am a good judge of character?\n(a) yes\n(b) no",
@@ -51,7 +51,7 @@ else:
     print("Next Question")
 
 response6 = input(questions[5]).lower()
-if response6 == 'a' or response6 =='A':
+if response6 == 'b' or response6 =='B':
     print("Next Question")
     count+=1
 else:
