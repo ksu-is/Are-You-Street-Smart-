@@ -16,6 +16,7 @@
 ### Sprint 2: <br>
 - [x] Making small updates <br>
 - [x] Committed at least 6 code changes <br>
+     - [x] Each memeber make a commit
 - [x] Include comment explaining change <br>
 
 ### Sprint 3: <br>
