@@ -7,10 +7,10 @@ questions = [
     "I have always been able to anticipate when something bad was going to happen.\n(a) Yes\n(b) No\n",
     "I adapt quickly to new surroundings. \n(a) yes\n(b) no",
     "I assess pros and cons before acting. \n(a) yes\n(b) no",
-    "I trust my intuition?\n(a) yes\n(b) no",
+    "I would consider myself street smart. \n(a) yes\n(b) no",
     "I am good at thinking on my feet.\n(a) yes\n(b) no",
     "It doesn't take me long to orient myself in a new city. \n(a) yes\n(b) no",
-    "I trust my intuition?\n(a) yes\n(b) no",
+    "I am a good judge of character?\n(a) yes\n(b) no",
     "I always carry enough cash to get home if I need.\n(a) yes\n(b) no"
 ]
 count = 0
