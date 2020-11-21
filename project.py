@@ -3,7 +3,7 @@ import random
 
 questions = [
     "I trust my intuition.\n(a) yes\n(b) no",
-    "Before taking any risk, I make sure to have a Plan B ready.\n(a) Yes \n(b) No\n",
+    "Before taking any risk, I make sure to have a plan B ready.\n(a) Yes \n(b) No\n",
     "I have always been able to anticipate when something bad was going to happen.\n(a) Yes\n(b) No\n",
     "I adapt quickly to new surroundings. \n(a) yes\n(b) no",
     "I assess pros and cons before acting. \n(a) yes\n(b) no",
