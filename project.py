@@ -78,16 +78,14 @@ if response9 == 'a' or response9 =='A':
 else:
     print("Next Question")
 
-response10= input(questions[9].lower()
+response10 = input(questions[9]).lower()
 if response10 == 'a' or response10 =='A':
     print("Next Question")
+    count+=1
 else:
     print("Next Question")
 
-   
 grade = count/10
 grade_percent = "{:.0%}".format(grade)
 
-print(f"You are {grade_percent} street smart")
-
-
+print("You are {grade_percent} street smart")
